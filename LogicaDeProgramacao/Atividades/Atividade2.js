@@ -1,3 +1,6 @@
+// Matricula: 25114290113 
+// Nome: David Marinho Gonçalves Fonseca
+
 const prompt = require ('prompt-sync') ({sigint: true})
 
 var n1 = parseInt(prompt("Digite um número: "));
